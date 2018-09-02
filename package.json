@@ -8,7 +8,11 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "spotify-web-api-node": "^3.1.1",
     "vue": "^2.5.17",
+    "vue-clock": "^0.3.1",
+    "vue-digital-clock": "^1.5.0",
+    "vue-spotify": "^1.0.2",
     "vuetify": "^1.0.19"
   },
   "devDependencies": {
